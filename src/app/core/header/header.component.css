@@ -1,0 +1,28 @@
+:host {
+  display: block;
+  min-width: 15vh;
+  background-color: brown;
+  color: bisque;
+  display: flex;
+}
+
+.title-wrapper{
+  width: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.img-wrapper{
+  width: 100%;
+}
+
+.img-wrapper{
+  max-width: 100%;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
